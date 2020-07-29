@@ -6,7 +6,7 @@ Required Items:
 ----------------------
 Arduino: Uno
 
-Sensor: ASAIR AM2302 (Humidity and Temperatrue Sensor)
+Sensor: ASAIR AM2302 (Humidity and Temperature Sensor)
 
 LCD: TC1602A 
 
